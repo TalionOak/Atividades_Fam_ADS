@@ -4,6 +4,10 @@
 
 using namespace std;
 
+// Escreva um programa que o usuário informe 4 notas e o programa informe a média do aluno.
+
+// - Note que adicionei algumas coisas a mais.
+
 int main()
 {
     setlocale(LC_ALL,"Portuguese");
