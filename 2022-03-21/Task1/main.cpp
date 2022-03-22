@@ -18,7 +18,7 @@ int main()
 
     media = (nota1 + nota2 + nota3 + nota4) /4;
 
-    cout << endl << "Você teve " << media << " de média." << endl << endl;
+    cout << endl << "Você obteve " << media << " de média." << endl << endl;
 
     if(media >= 6)
     {
