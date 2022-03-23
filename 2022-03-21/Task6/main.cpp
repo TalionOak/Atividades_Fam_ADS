@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Atividade 5
+// Atividade 6
 // Leia o tempo de duração de um evento expresso em segundos
 // e mostre expresso em horas, minutos e segundos.
 

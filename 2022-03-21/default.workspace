@@ -4,6 +4,7 @@
 		<Project filename="Task1/Task1.cbp" />
 		<Project filename="Task3/Task3.cbp" />
 		<Project filename="Task4/Task4.cbp" />
+		<Project filename="Task6/Task6.cbp" />
 		<Project filename="Task5/Task5.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
