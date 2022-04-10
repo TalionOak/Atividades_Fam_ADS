@@ -13,7 +13,7 @@ int main()
     setlocale(LC_ALL,"Portuguese");
 
     int diasInformado;
-    float anos, meses, dias;
+    int anos, meses, dias;
 
     cout << "Informe a sua idade em dias: ";
     cin >> diasInformado;
