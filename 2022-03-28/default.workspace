@@ -3,6 +3,6 @@
 	<Workspace title="Workspace">
 		<Project filename="Task1/Task1.cbp" />
 		<Project filename="Task2/Task2.cbp" />
-		<Project filename="D:/Atividades/2022-03-28/Task3/Task3.cbp" />
+		<Project filename="Task3/Task3.cbp" />
 	</Workspace>
 </CodeBlocks_workspace_file>
