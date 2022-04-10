@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648510446 source:d:\atividades\2022-03-28\task2\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+
